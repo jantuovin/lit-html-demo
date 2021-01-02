@@ -1,0 +1,22 @@
+{
+  "name": "lit-html-demo",
+  "version": "1.0.0",
+  "description": "Demonstrating usage of lit-html with a very simple todo list app",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel ./src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jantuovin/lit-html-demo.git"
+  },
+  "author": "jantuovin",
+  "license": "ISC",
+  "homepage": "https://github.com/jantuovin/lit-html-demo#readme",
+  "dependencies": {
+    "lit-html": "^1.3.0"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
